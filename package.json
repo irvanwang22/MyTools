@@ -1,0 +1,16 @@
+{
+  "name": "com.irvanwang.mytools",
+  "version": "1.0.0",
+  "displayName": "MyTools",
+  "description": "General-purpose Unity utilities: object pool, singletons, A* pathfinding, NavMesh helpers, BigNum math, UI helpers and more.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Irvan Wang"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.mathematics": "1.2.6",
+    "com.unity.localization": "1.5.0",
+    "com.unity.modules.ai": "1.0.0"
+  }
+}
